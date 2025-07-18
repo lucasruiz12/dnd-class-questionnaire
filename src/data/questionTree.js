@@ -374,7 +374,7 @@ const questionTree = [
         options: [
             { text: "Para proteger, como un hippie", nextId: "118" },
             { text: "Para usar, como un gaucho", nextId: "119" },
-            { text: "Para conectar, como un druida", nextId: "120" }
+            { text: "Para conectar, como un proteccionista de Greenpeace", nextId: "120" }
         ]
     },
     // Nivel 4H
@@ -550,7 +550,7 @@ const questionTree = [
         question: "¿Ese lado salvaje tuyo cómo lo usás?",
         options: [
             { text: "Para pelear, como un bicho", nextId: "175" },
-            { text: "Para conectar, como un druida", nextId: "176" },
+            { text: "Para conectar, como un proteccionista de Greenpeace", nextId: "176" },
             { text: "Para romper, como en la Bombonera", nextId: "177" }
         ]
     },
@@ -1083,7 +1083,7 @@ const questionTree = [
         options: [
             { text: "Para proteger, como un hippie", nextId: "346" },
             { text: "Para usar, como un gaucho", nextId: "347" },
-            { text: "Para conectar, como un druida", nextId: "348" }
+            { text: "Para conectar, como un proteccionista de Greenpeace", nextId: "348" }
         ]
     },
     {
@@ -1092,7 +1092,7 @@ const questionTree = [
         options: [
             { text: "Para pelear, como un gaucho", nextId: "349" },
             { text: "Para proteger, como un hippie", nextId: "350" },
-            { text: "Para conectar, como un druida", nextId: "351" }
+            { text: "Para conectar, como un proteccionista de Greenpeace", nextId: "351" }
         ]
     },
     {
@@ -1101,7 +1101,7 @@ const questionTree = [
         options: [
             { text: "Para proteger, como un hippie", nextId: "352" },
             { text: "Para usar, como un gaucho", nextId: "353" },
-            { text: "Para pelear, como un druida", nextId: "354" }
+            { text: "Para pelear, como un proteccionista de Greenpeace", nextId: "354" }
         ]
     },
     // Nivel 5U
