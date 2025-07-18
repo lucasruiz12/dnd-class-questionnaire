@@ -1,0 +1,10 @@
+.quiz-container {
+  min-height: 100vh;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.quiz-card {
+  max-height: 90vh;
+  overflow-y: auto;
+}
